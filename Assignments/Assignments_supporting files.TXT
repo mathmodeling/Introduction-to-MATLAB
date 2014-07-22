@@ -1,0 +1,7 @@
+ASSN # 	DESCRIPTIONS 	ASSIGNMENTS 	SUPPORTING FILES
+1 	This assignment focuses on vector/matrix variables and learning new functions by using help.
+ 	classGrades.mat (MAT)
+2 	This assignment focuses on writing functions and visualizing data. 	
+	noisyData.mat (MAT)	optionalData.mat (MAT)	googlePrices.mat (MAT)
+3 	This assignment focuses on solving problems and has a very cool optional problem which is actually pretty easy. 		HH.zip (ZIP) (This ZIP file contains: 6 .m files.)	randomData.mat (MAT)
+4 	This assignment focuses on more advanced concepts like random number generation, advanced data structures, 	images, and animation. 	
